@@ -1,0 +1,11 @@
+Following are the number of tweets posted by respective companies in last 4 weeks:
+[(1111, '@Nordstrom'), (689, '@Macys'), (588, '@Kohls'), (123, '@jcpenney')]
+
+Number of times each company name was mention in last 1 days
+[(862, '@jcpenney'), (423, '@Kohls'), (273, '@Nordstrom'), (265, '@Macys')]
+
+Number of times keywords (cash, discount, rewards) used by each company
+[[('@jcpenney', 'cash', 0), ('@jcpenney', 'reward', 1), ('@jcpenney', 'discount', 0), ('@jcpenney', 'free', 2)], [('@Macys', 'cash', 0), ('@Macys', 'reward', 3), ('@Macys', 'discount', 1), ('@Macys', 'free', 7)], [('@Nordstrom', 'cash', 0), ('@Nordstrom', 'reward', 5), ('@Nordstrom', 'discount', 1), ('@Nordstrom', 'free', 24)], [('@Kohls', 'cash', 52), ('@Kohls', 'reward', 4), ('@Kohls', 'discount', 0), ('@Kohls', 'free', 51)]]
+
+Top 1 keyword used among all companies
+('FREE', 47)

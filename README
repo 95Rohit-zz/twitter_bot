@@ -1,9 +1,11 @@
-# intially learned basic functionality of tweepy via following github code and tweepy documentation
+# initially learned basic functionality of tweepy via following github code and tweepy documentation
 
 https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python/part_1_streaming_tweets
 
-# Also used Tweepy github
+Tweepy github
 https://github.com/tweepy/tweepy/tree/e2ba5b15024c375b2f2540c65a2ffd04a5f08121/tweepy
+
+Tweepy Documentation
 
 http://docs.tweepy.org/en/v3.6.0/api.html -  for API references
 http://docs.tweepy.org/en/v3.6.0/cursor_tutorial.html  - Pagination with Cursor

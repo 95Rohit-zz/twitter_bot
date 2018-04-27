@@ -1,0 +1,18 @@
+# intially learned basic functionality of tweepy via following github code and tweepy documentation
+
+https://github.com/vprusso/youtube_tutorials/tree/master/twitter_python/part_1_streaming_tweets
+
+# Also used Tweepy github
+https://github.com/tweepy/tweepy/tree/e2ba5b15024c375b2f2540c65a2ffd04a5f08121/tweepy
+
+http://docs.tweepy.org/en/v3.6.0/api.html -  for API references
+http://docs.tweepy.org/en/v3.6.0/cursor_tutorial.html  - Pagination with Cursor
+http://python-twitter.readthedocs.io/en/latest/rate_limits.html   - Researched about rate_limit
+
+
+StackOverflow links :-
+https://stackoverflow.com/questions/42705314/getting-full-tweet-text-from-user-timeline-with-tweepy
+https://stackoverflow.com/questions/6412188/what-exactly-does-since-id-and-max-id-mean-in-the-twitter-api
+https://stackoverflow.com/questions/3714039/how-to-overcome-twitter-api-rate-limit
+https://stackoverflow.com/questions/38555191/get-all-twitter-mentions-using-tweepy-for-users-with-millions-of-followers
+https://stackoverflow.com/questions/21308762/avoid-twitter-api-limitation-with-tweepy
